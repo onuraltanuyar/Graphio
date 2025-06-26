@@ -17,7 +17,7 @@
 
 ## Graphio 1.0 (Görseller)
 
-![1](https://i.hizliresim.com/g17tloi.png)
+![1](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w1.png)
 
 ![2](https://i.hizliresim.com/oqwkiwe.png)
 
