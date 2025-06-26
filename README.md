@@ -19,12 +19,12 @@
 
 ![1](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w1.png)
 
-![2](https://i.hizliresim.com/oqwkiwe.png)
+![2](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w2.png)
 
-![3](https://i.hizliresim.com/m67kjmp.png)
+![3](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w3.png)
 
-![4](https://i.hizliresim.com/blpez2t.png)
+![4](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w4.png)
 
-![5](https://i.hizliresim.com/b8orbid.png)
+![5](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w5.png)
 
-![6](https://i.hizliresim.com/o2w9c1j.png)
+![6](https://github.com/onuraltanuyar/Graphio/blob/main/1.0-img/w6.png)
